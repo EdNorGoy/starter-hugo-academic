@@ -19,4 +19,3 @@ feature:
     name: Photography
 widget_id: skills_try
 ---
-Here are my skills...
