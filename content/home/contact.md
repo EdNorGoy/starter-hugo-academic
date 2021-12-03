@@ -17,4 +17,4 @@ content:
 design:
   columns: "2"
 ---
-You can contact me at name.surname@dauphine.eu, or via the following form.
+You can contact me via the following form.
