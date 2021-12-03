@@ -28,19 +28,19 @@ experience:
     company_logo: dauphine_logo
     location: Paris
     date_start: '2019-09-01'
-    date_end: '2023-08-31'
+    date_end: ''
     description: |2-
         Teaching responsibilities include:
         
-        * Planification and budget management (MSc)
-        * Operational and financial budgets (BSc)
+        * Planification and budget management for MSc
+        * Operational and financial budgets for BSc
         * MSc thesis mentoring
 
   - title: Control in Management Assistant
     company: 'Editions Larousse'
     company_url: ''
     company_logo: larousse_logo
-    location: 'Paris'
+    location: Paris
     date_start: '2018-04-01'
     date_end: '2019-09-30'
     description: 'Youth and Dictionaries'
@@ -49,7 +49,7 @@ experience:
     company: 'Intrum Justitia France'
     company_url: ''
     company_logo: intrum_logo
-    location: 'Lyon'
+    location: Lyon
     date_start: '2017-06-01'
     date_end: '2017-07-31'
     description: ''
