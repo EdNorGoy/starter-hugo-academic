@@ -44,6 +44,15 @@ experience:
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
+    
+  - title: Supplier Treasury Assistant & Incoming Quality Controller
+    company: STMicroelectronics
+    company_url: ''
+    compagny_logo: stm_logo
+    location: Malta
+    date_start: '2015-06-01'
+    date_end: '2015-12-31'
+    description: ''
 
 design:
   columns: '2'
