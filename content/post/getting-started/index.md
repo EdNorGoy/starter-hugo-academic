@@ -10,10 +10,8 @@ featured: false
 authors:
   - admin
 lastmod: 2020-12-13T00:00:00Z
-tags:
-  - Academic
-categories:
-  - Demo
+tags: []
+categories: []
 projects: []
 image:
   caption: "Image credit: Edouard"
