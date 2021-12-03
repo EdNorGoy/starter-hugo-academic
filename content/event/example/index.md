@@ -6,8 +6,8 @@ url_pdf: ""
 summary: A talk about memes from a work done with Christophe Birolini.
 title: “How many auditors does it take to change a lightbulb?”
 location: Online
-date: 2021-09-11T14:10:00.000Z
-date_end: 2021-09-11T14:50:00.000Z
+date: 2021-09-11T16:10:00.000Z
+date_end: 2021-09-11T16:50:00.000Z
 all_day: false
 event: EARNet 2021 Symposium
 event_url: https://earnet2021.nl/
