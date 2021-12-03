@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Publications
-subtitle: 'Coming soon!'
+subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -36,7 +36,5 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
+Coming soon!
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
