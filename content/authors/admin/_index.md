@@ -7,7 +7,7 @@ bio: My research interests include audit and its norms, auditors and their
 interests:
   - Audit
   - Auditors
-  - Audit_norms
+  - Audit norms
   - Identity
   - Recognition
 social:
@@ -46,7 +46,7 @@ highlight_name: true
 ---
 Welcome on my academic page!
 
-I am a PhD student in the MOST team, in the [DRM](https://drm.dauphine.fr/en/drm/home.html) laboratory of [Université Paris-Dauphine](https://dauphine.psl.eu/en/)
+I am a PhD student of the MOST team, in the [DRM](https://drm.dauphine.fr/en/drm/home.html) laboratory of [Université Paris Dauphine-PSL](https://dauphine.psl.eu/en/)
 , under the supervision of [Emer Curtis](https://ie.linkedin.com/in/emer-curtis-01713325) and [Gwenaëlle Nogatchewsky](https://drm.dauphine.fr/en/most/members/detail-cv/profile/gwenaelle-nogatchewsky.html). The (provisional) title of my [thesis](http://www.theses.fr/s234813)
  is *Disidentification and leaving external auditing: a continuous quest*. I also have the honour to take part in teaching at Université Paris-Dauphine.
 
