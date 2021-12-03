@@ -1,7 +1,7 @@
 ---
 title: Edwige Nortier
 role: PhD student
-avatar_filename: edwige_site.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include audit and its norms, auditors and their
   identity & recognition, along with some side topics such as audit memes.
 interests:
