@@ -52,4 +52,4 @@ I am a PhD student in the MOST team, in the [DRM](https://drm.dauphine.fr/en/drm
 
 Recently, I have been in Montréal for three months to work with Bertrand Malsch and Oriane Couchoux. A preprint is coming, more details soon! Starting from January, I am back in Paris.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+[comment]: <> ({{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.)
