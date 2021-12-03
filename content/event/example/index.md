@@ -3,7 +3,7 @@ abstract: " How an external auditors' collective identity is produced through
   humor in Internet memes."
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: A talk about memes from a work done with Christophe Birolini.
 title: “How many auditors does it take to change a lightbulb?”
 location: Online
 date: 2021-09-11T14:10:00.000Z
