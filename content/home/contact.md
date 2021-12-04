@@ -17,4 +17,5 @@ content:
 design:
   columns: "2"
 ---
-You can contact me via the following form.
+You can contact me by email at $a.b \@ c.d$, after replacing each letter with the words edwige nortier dauphine eu\
+You can also contact me via the following form.
