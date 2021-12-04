@@ -3,7 +3,7 @@ abstract: " How an external auditors' collective identity is produced through
   humor in Internet memes."
 slides: ""
 url_pdf: ""
-summary: A talk about memes from a work done with Christophe Birolini.
+summary: A talk about audit memes.
 title: “How many auditors does it take to change a lightbulb?”
 location: Online
 date: 2021-09-11T16:10:00.000Z
