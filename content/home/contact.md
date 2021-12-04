@@ -18,4 +18,4 @@ design:
   columns: "2"
 ---
 You can contact me by email at edwige dot nortier at dauphine dot eu\
-You can also contact me via the following form.
+Another option is to use the following form:
