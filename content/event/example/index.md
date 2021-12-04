@@ -12,7 +12,7 @@ all_day: false
 event: EARNet 2021 Symposium
 event_url: https://earnet2021.nl/
 featured: false
-authors: [joint work with Christophe Birolini]
+authors: [admin, Christophe Birolini]
 url_video: ""
 url_slides: ""
 address: ""
