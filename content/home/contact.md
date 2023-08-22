@@ -17,5 +17,5 @@ content:
 design:
   columns: "2"
 ---
-You can contact me by email at edwige dot nortier at dauphine dot eu\
+You can contact me by email at: edwige dot nortier at dauphine dot eu\
 Another option is to use the following form:
