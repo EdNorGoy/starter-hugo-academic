@@ -1,6 +1,6 @@
 ---
 role: Assistant Professor at emlyon business school
-avatar_filename: photo-edwige-nortier.jpeg
+avatar_filename: avatar.jpg
 bio: My research interests include audit and its norms, auditors and their
   identity & recognition, along with some side topics such as audit memes.
 interests:
