@@ -48,6 +48,4 @@ I am starting a position as Assistant Professor at emlyon business school as of 
 
 I am also a PhD student at Université Paris Dauphine-PSL, member of the [DRM-MOST team](https://drm.dauphine.fr/fr/drm/accueil.html). My supervisors are [Emer Curtis](https://ie.linkedin.com/in/emer-curtis-01713325) from NUI Galway and [Gwenaëlle Nogatchewsky](https://fr.linkedin.com/in/nogatchewsky-gwenaelle-a27a93107) from Dauphine. 
 
-Recently, I have been in Montréal for three months to work with Bertrand Malsch and Oriane Couchoux. A preprint is coming, more details soon! Starting from January, I am back in Paris.
-
-<> ({{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.)
+({{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.)
