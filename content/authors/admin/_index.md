@@ -50,4 +50,4 @@ I am also a PhD student at Université Paris Dauphine-PSL, member of the [DRM-MO
 
 Recently, I have been in Montréal for three months to work with Bertrand Malsch and Oriane Couchoux. A preprint is coming, more details soon! Starting from January, I am back in Paris.
 
-\[comment]: <> ({{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.)
+<> ({{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.)
